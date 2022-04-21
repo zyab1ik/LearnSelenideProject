@@ -1,7 +1,5 @@
-# guru.qa
-
-Homework for lesson 2 & 5: 
-1. Возьмите ваш код написанный для формы в рамках ДЗ ко второму занятию https://demoqa.com/automation-practice-form
-2. Добавьте в ваш код PageObjects
-3. Добавьте в ваш код генерацию рандомных значений используя Java Faker
-   В поле ответа приложите ссылку на ваш репозиторий в GitHub
+# Selenium Testing With Selenide, simple example
+ 
+1. Заполнить произвольными данными форму регистрации и отправить на подтверждени: https://demoqa.com/automation-practice-form
+2. Добавить в код pageObjects
+4. Добавьте вкод генерацию рандомных значений используя Java Faker
